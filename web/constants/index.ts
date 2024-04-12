@@ -1,1 +1,0 @@
-export const supabase = "https://ugxrutmbdnievlqtuyng.supabase.co/storage/v1/object/public/uploads/rex"
